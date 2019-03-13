@@ -1,1 +1,13 @@
 
+let obj={
+"firstName":"Petar",
+"lastName": "Petrov",
+"adress":{
+"town":"Sofia",
+"postCode": "1506"
+}
+
+}
+console.log(obj.firstName);
+console.log(obj.lastName);
+console.log(obj.adress.town);
